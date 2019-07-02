@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\bin\Debug\netcoreapp2.1\Vetor5.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\bin\Debug\netcoreapp2.1\Vetor5.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\bin\Debug\netcoreapp2.1\Vetor5.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\bin\Debug\netcoreapp2.1\Vetor5.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\bin\Debug\netcoreapp2.1\Vetor5.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Vetor5\obj\Debug\netcoreapp2.1\Vetor5.pdb
